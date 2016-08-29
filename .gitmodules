@@ -1,0 +1,3 @@
+[submodule "games/grandpa-lives"]
+	path = games/grandpa-lives
+	url = git@github.com:gmegidish/grandpa-lives.git
