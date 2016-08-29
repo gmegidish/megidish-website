@@ -1,3 +1,6 @@
 [submodule "games/grandpa-lives"]
 	path = games/grandpa-lives
 	url = git@github.com:gmegidish/grandpa-lives.git
+[submodule "pipi-kaki"]
+	path = pipi-kaki
+	url = git@github.com:gmegidish/ilaughkids-pipi-kaki-game.git
