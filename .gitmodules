@@ -4,3 +4,12 @@
 [submodule "pipi-kaki"]
 	path = games/pipi-kaki
 	url = git@github.com:gmegidish/ilaughkids-pipi-kaki-game.git
+[submodule "apple2js"]
+	path = apple2js
+	url = git@github.com:gmegidish/apple2js.git
+[submodule "readysoft"]
+	path = readysoft
+	url = git@github.com:gmegidish/readysoft-player.git
+[submodule "awjs"]
+	path = awjs
+	url = git@github.com:gmegidish/awjs.git
