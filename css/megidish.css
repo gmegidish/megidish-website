@@ -1,11 +1,37 @@
 body {
-	color: white;
-	background: #fff url(/images/workstation.jpg) no-repeat;
-	background-size: cover;
-	margin: 0px;
-	padding: 0px;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    background-image: none;
+    background-color: #02779E;
+    font-size: 14px;
 }
 
 a, a:visited, a:hover {
-	color: white;
+    color: white;
+}
+
+.panel {
+    width: 230px;
+    border-radius: 8px;
+    background-color: white;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.panel img {
+    width: 210px;
+    height: 210px;
+    border-radius: 8px;
+}
+
+.panel .panel-text {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 120px;
+    overflow: hidden;
 }
