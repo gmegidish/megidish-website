@@ -27,7 +27,7 @@ a, a:visited, a:hover {
     border-radius: 8px;
 }
 
-.panel .panel-text {
+li.panel .panel-text {
     margin-left: 10px;
     margin-right: 10px;
     padding-top: 10px;
@@ -35,3 +35,16 @@ a, a:visited, a:hover {
     height: 120px;
     overflow: hidden;
 }
+
+li.panel .panel-text a {
+    color: black;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+li.panel .panel-text a:hover {
+    color: darkblue;
+    text-decoration: underline;
+}
+
