@@ -1,9 +1,3 @@
-[submodule "games/grandpa-lives"]
-	path = games/grandpa-lives
-	url = git@github.com:gmegidish/grandpa-lives.git
-[submodule "pipi-kaki"]
-	path = games/pipi-kaki
-	url = git@github.com:gmegidish/ilaughkids-pipi-kaki-game.git
 [submodule "apple2js"]
 	path = apple2js
 	url = git@github.com:gmegidish/apple2js.git
