@@ -13,3 +13,12 @@
 [submodule "awjs"]
 	path = awjs
 	url = git@github.com:gmegidish/awjs.git
+[submodule "ps2-xrick"]
+	path = ps2-xrick
+	url = https://github.com/gmegidish/ps2-xrick
+[submodule "ps2-jumpnbump"]
+	path = ps2-jumpnbump
+	url = https://github.com/gmegidish/ps2-jumpnbump
+[submodule "ps2-flashback"]
+	path = ps2-flashback
+	url = https://github.com/gmegidish/ps2-flashback
